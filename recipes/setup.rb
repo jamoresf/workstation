@@ -1,7 +1,6 @@
 package 'tree' do
-action :install
+  action :install
 end
 file '/etc/motd' do
-content 'Propiedad de ....!'
+  content 'Propiedad de ....!'
 end
-
