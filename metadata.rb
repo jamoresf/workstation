@@ -1,6 +1,6 @@
 name 'Workstation'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'juan'
+maintainer_email 'juanito@calamidad.es'
 license 'All Rights Reserved'
 description 'Installs/Configures Workstation'
 long_description 'Installs/Configures Workstation'
@@ -17,4 +17,4 @@ chef_version '>= 12.1' if respond_to?(:chef_version)
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
-# source_url 'https://github.com/<insert_org_here>/Workstation'
+source_url 'https://github.com/jamoresf/Workstation'

@@ -1,4 +1,4 @@
 # Workstation
 
-TODO: Enter the cookbook description here.
+TODO: pruebas con chef con workstation.
 
